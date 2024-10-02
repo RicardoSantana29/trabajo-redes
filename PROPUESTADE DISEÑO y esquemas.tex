@@ -1,0 +1,140 @@
+\section{Propuesta de diseño y esquemas}
+
+Bajas frecuencias:
+
+\begin{align}
+    L = \frac{\mu}{\pi}\left( \frac{1}{4} + arccosh \left( \frac{d}{2a} \right) \right)
+\end{align}
+
+\begin{align}
+    R = \frac{2}{\sigma_c \pi a^2}
+\end{align}
+
+\begin{align}
+    C = \frac{\pi \epsilon}{  arccosh \left( \frac{d}{2a} \right) }
+\end{align}
+
+\begin{align}
+    G = \frac{\pi \sigma_d}{cosh^{-1} \left( \frac{d}{2a} \right)}
+\end{align}
+
+Altas frecuencias:
+
+\begin{equation*}
+        \begin{aligned}
+        L =    \frac{\mu}{\pi}    arccosh \left( \frac{d}{2a} \right) \approx \frac{\mu }{ \pi } ln \left( \frac{d}{a} \right) \text{;} &\quad    a \ll d
+        \end{aligned}
+        \end{equation*}
+
+\begin{equation*}
+        \begin{aligned}
+        C =  \frac{  \pi \epsilon  }{   arccosh \left( \frac{d}{2a} \right) } \approx \frac{\pi \epsilon}{ ln( \frac{d}{a} ) }    \text{;} &\quad    a \ll d
+        \end{aligned}
+        \end{equation*}
+
+\begin{align}
+    R = \frac{1}{\pi a l \sigma_c}
+\end{align}
+
+\begin{align}
+    Z_o = \sqrt{\frac{L}{C}} = \frac{1}{\pi} \sqrt{\frac{\mu}{\epsilon}} arccosh \left( \frac{d}{2a} \right) 
+\end{align}
+
+Si l es comparable o mayor que el radio del conductor $"a"$ se utilizan las expresiones para bajas frecuencias 
+
+
+    $tg (\delta)$ se asume constante en f, $\sigma$ no varia linealmente con respecto a f
+
+\begin{align}
+    l \left[ \frac{dB}{m} \right] &= 20 log (e) \alpha \left[ \frac{Np}{m} \right] \\
+    \alpha &= 0,2187 \frac{Np}{m} \notag
+\end{align}    
+
+\begin{align}
+    Z_o &= \sqrt{ \frac{ R + jwL }  { G + jwC } }
+    \label{ec 1}
+\end{align}
+\begin{align}
+    Z_o &= 300 \Omega \   \text{( antenas receptoras de TV o FM )}   \notag
+\end{align}
+
+
+\begin{align}
+    V_p = \frac{w}{\beta} = \frac{2 \pi f}{ \beta }
+\end{align}
+
+\begin{align}
+    \beta &= \frac{ 2 \pi f } { V_p } \\
+    \beta &= \frac{ 2 \pi 10Mhz } { 0,98 \cdot C } \notag \\
+    \beta &= 2,1386 \frac{rad}{m} \notag
+\end{align}
+
+\begin{align*}
+    v = \frac{c}{\sqrt{\epsilon_r}} = 0,986
+\end{align*}
+
+\begin{align*}
+    \frac{1}{\sqrt{\epsilon_r}} = 0,98\\
+    \epsilon_r = 1,0412 \  \therefore \ \text{aire}
+\end{align*}
+
+\begin{align}
+    \epsilon &= \epsilon_o \cdot \epsilon_r \\
+    \epsilon &= 9,2193x10^{-12} \notag
+\end{align}
+
+\begin{align*}
+    \mu = \mu_0 = 1,2566x10^{-6}
+\end{align*}
+
+\begin{align}
+    \gamma = \alpha + j\beta = 0,2187 + j2,1386 \\
+    \gamma = \sqrt{ (R - jwL) (G + jwC) }
+    \label{ec 2}
+\end{align}
+
+si $\alpha = 0 \implies \gamma = 2,0959j$
+por aire $\sigma = 0$
+si 
+\begin{align}
+G = \frac{\pi \sigma_d}{cosh^{-1}\left(\frac{d}{2a}\right) } = 0
+\end{align}
+
+Para la ecuación \ref{ec 2} y  \ref{ec 1} se busca R y L con $G = 0, Z_o = 300 \Omega, \gamma= 0,2187 + j2,1386$
+
+\begin{align}
+    \frac{d}{2a} = cosh \left (  \frac{\pi \epsilon}{C} \right) = 8,1036 ; \ \text{si} \  \frac{d} {2a} = e^{\frac{\pi \epsilon}{C}} = 8,0726
+\end{align}
+
+si conductor cobre:
+
+\begin{align}
+    l &= \sqrt{\frac{1}{\pi f \mu_o \sigma_c}} \\
+    l &= 6,6085x10^{-6} = 0,066mm \  \text{;} \  l \ll a \ \text{se utiliza alta frecuencia} \notag
+\end{align}
+
+\begin{align*}
+    \mu = 0,999994 \  \text{;} \ \sigma_c = 4,8x10^7
+\end{align*}
+
+\begin{align*}
+    L \to \frac{d}{a} = 16,14725
+\end{align*}
+
+\begin{align}
+    \frac{L \pi}{ \mu } &= \frac{\pi \epsilon}{C} \\
+    L &= 1,1127 \frac{\mu H}{m} \notag
+\end{align}
+
+\begin{align*}
+    C \to \frac{d}{a} = 16,1452
+\end{align*}
+
+\begin{align*}
+    \frac{d}{2a} = 8,075
+\end{align*}
+
+%---------------Resolución------------
+
+
+\pagebreak
