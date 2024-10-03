@@ -161,6 +161,42 @@ INPUT C:\Program Files\MiKTeX\tex\latex\arydshln\arydshln.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\arydshln\arydshln.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ptm.fd
@@ -187,8 +223,15 @@ INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\ninecolors\ninecolors.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\ninecolors\ninecolors.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+OUTPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.bcf
+INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.bbl
+INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.bbl
+INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.bbl
+INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.bbl
+INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.bbl
 INPUT .\portada.tex
 INPUT .\portada.tex
 INPUT .\portada.tex
@@ -271,8 +314,6 @@ INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\zptmcm7m.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\psyro.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\PROPUESTADE DISEÑO y esquemas.tex
 INPUT .\PROPUESTADE DISEÑO y esquemas.tex
 INPUT .\PROPUESTADE DISEÑO y esquemas.tex
@@ -311,6 +352,8 @@ INPUT CONCLUSIONES y posibles aplicaciones.tex
 INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.aux
 INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.out
 INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.out
+INPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.run.xml
+OUTPUT c:\Users\Ricardo\Documents\Semestre 2024-1\Ricardo 6to\Redes 3\Trabajo\build\main.run.xml
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb

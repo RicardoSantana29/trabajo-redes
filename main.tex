@@ -1,14 +1,16 @@
 \documentclass[a4paper,12pt]{article}
-\usepackage[spanish]{babel}
+\usepackage[spanish, es-tabla]{babel}
 \usepackage[margin=25mm]{geometry}
 \usepackage[hidelinks]{hyperref}
-\usepackage{lmodern,amsmath,mathptmx,amssymb,amsfonts,enumerate,float,fullpage,graphicx,makeidx,caption,colortbl,xcolor,hhline,tabularx,array,tabularray,booktabs,arydshln,multirow}
+\usepackage{lmodern,amsmath,mathptmx,amssymb,amsfonts,enumerate,float,fullpage,graphicx,makeidx,caption,colortbl,xcolor,hhline,tabularx,array,tabularray,booktabs,arydshln,multirow,comment}
 \numberwithin{figure}{section}
 \numberwithin{equation}{section}
 \numberwithin{table}{section}
 \renewcommand{\baselinestretch}{1.5}
 
-
+\usepackage[backend=biber,citestyle=numeric]{biblatex}
+\bibliography{referencias}
+\graphicspath{{imagenes/}}
 
 \begin{document}
 
@@ -25,5 +27,7 @@
 \input{VALORES dispositivos}
 
 \input{CONCLUSIONES y posibles aplicaciones}
+
+\section{Bibliografía y}\printbibliography
 
 \end{document}
