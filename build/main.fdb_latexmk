@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1727924445.89439 "build/main.bcf" "build/main.bbl" "build/main" 1727924566.55115 0
-  "build/main.bcf" 1727924564 108075 9ed04e1ad3331b2ec69860043051465f "pdflatex"
+["biber build/main"] 1727924445.89439 "build/main.bcf" "build/main.bbl" "build/main" 1727927644.33198 0
+  "build/main.bcf" 1727927641 108075 9ed04e1ad3331b2ec69860043051465f "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1727924547.64181 "c:/Users/Ricardo/Documents/Semestre 2024-1/Ricardo 6to/Redes 3/Trabajo/main.tex" "build/main.pdf" "main" 1727924566.55563 0
-  "BREVEDESCRIPCIONTEORICA.tex" 1727921768 4093 c755a1cc8707bb89c9466b3fdb896ac7 ""
+["pdflatex"] 1727927630.13376 "c:/Users/Ricardo/Documents/Semestre 2024-1/Ricardo 6to/Redes 3/Trabajo/main.tex" "build/main.pdf" "main" 1727927644.33606 0
+  "BREVEDESCRIPCIONTEORICA.tex" 1727926125 5223 39120b0bde5902b26462c6217ecab1d2 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/symbol/psyr.tfm" 1136786654 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/times/psyro.tfm" 1136786654 1544 23a042a74981a3e4b6ce2e350e390409 ""
@@ -153,11 +153,15 @@
   "PROBLEMA PLANTEADO.tex" 1727924363 541 9b90daccf3af382d8b71271c2f96dbcf ""
   "PROPUESTADE DISEÑO y esquemas.tex" 1727909779 3526 a596ba964bf364b8558bc9612d45def3 ""
   "VALORES dispositivos.tex" 1724210226 60 3170506e6bad2a2e19952a0ee6472f9f ""
-  "build/main.aux" 1727924564 2308 c57e430a59c5f411493809f91bfc910f "pdflatex"
+  "build/main.aux" 1727927641 2967 c1dcbd8b4c9d5ef9b2128a679a450235 "pdflatex"
   "build/main.bbl" 1727924546 486 76d65a242ec496c9b4361af646ff12cb "biber build/main"
-  "build/main.out" 1727924564 2480 4aecca8d6349e2cf12b89ea56119b0bc "pdflatex"
-  "build/main.run.xml" 1727924564 2306 21b6f2342482d65f7bca9ce329356541 "pdflatex"
+  "build/main.out" 1727927641 2554 9c520739ec29f58266467688cb01ba84 "pdflatex"
+  "build/main.run.xml" 1727927641 2306 21b6f2342482d65f7bca9ce329356541 "pdflatex"
   "c:/Users/Ricardo/Documents/Semestre 2024-1/Ricardo 6to/Redes 3/Trabajo/main.tex" 1727924362 892 f00c01e4304f1d2018a7a52677ab0aa9 ""
+  "imagenes/Modelo de parámetros distribuidos.png" 1727925195 9688 2e0b11f2fda9d3408613313d9c451904 ""
+  "imagenes/Modelo distribuido completo.png" 1727925196 10819 677c015c4c42d738713513a955853736 ""
+  "imagenes/Modelo esquemático de una línea de transmisión conectada.png" 1727925196 37339 3741381cb321d4f2af55555986e72ab4 ""
+  "imagenes/propagacion de una onda electromagnetica.png" 1727925196 245146 cd7f9ec74ca45a3b55e2bbf272748047 ""
   "main.tex" 1727924362 892 f00c01e4304f1d2018a7a52677ab0aa9 ""
   "portada.tex" 1727917452 1038 75e115ffae18f3fe5154f53026ea608a ""
   "referencias.tex" 1727924316 289 ab6538db856fba0117a1a1398bb92c14 ""
