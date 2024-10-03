@@ -1,14 +1,15 @@
 \documentclass[a4paper,12pt]{article}
-\usepackage[spanish, es-tabla]{babel}
+\usepackage[spanish,es-tabla]{babel}
 \usepackage[margin=25mm]{geometry}
 \usepackage[hidelinks]{hyperref}
+\usepackage[backend=biber,citestyle=numeric]{biblatex}
 \usepackage{lmodern,amsmath,mathptmx,amssymb,amsfonts,enumerate,float,fullpage,graphicx,makeidx,caption,colortbl,xcolor,hhline,tabularx,array,tabularray,booktabs,arydshln,multirow,comment}
 \numberwithin{figure}{section}
 \numberwithin{equation}{section}
 \numberwithin{table}{section}
 \renewcommand{\baselinestretch}{1.5}
 
-\usepackage[backend=biber,citestyle=numeric]{biblatex}
+
 \bibliography{referencias}
 \graphicspath{{imagenes/}}
 
@@ -28,6 +29,8 @@
 
 \input{CONCLUSIONES y posibles aplicaciones}
 
-\section{Bibliografía y}\printbibliography
+\input{referencias}
+%\section{Bibliografía y}
+%\printbibliography
 
 \end{document}
